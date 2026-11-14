@@ -1,10 +1,10 @@
 {
- "maintenance": true,
- "message": "tokens",
- "eta": "2026-11-14T22:50:15Z",
- "since": "2026-11-14T22:20:15Z",
- "until": "2026-11-15T00:20:15Z",
+ "maintenance": false,
+ "message": "",
+ "eta": "",
+ "since": "",
+ "until": "",
  "suspended_keys": [],
  "blocked_devices": [],
- "updated": "2026-11-14T22:20:15Z"
+ "updated": "2026-11-14T22:22:23Z"
 }
