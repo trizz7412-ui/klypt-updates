@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "updated": "2026-11-15T09:42:55Z",
+ "plans": [
+  {
+   "key": "monthly",
+   "name": "KLYPT — Mensual Fundador",
+   "price": "$5.99",
+   "period": "mes",
+   "credits": 2000,
+   "checkout": "https://buy.polar.sh/polar_cl_r3pJzk330soddcJOXM3xhBRBwD8wz2HRmP7uj0cyIUo"
+  },
+  {
+   "key": "yearly",
+   "name": "KLYPT — Anual Fundador",
+   "price": "$59.99",
+   "period": "año",
+   "credits": "ilimitado",
+   "checkout": "https://buy.polar.sh/polar_cl_lgfPrxdylBXCDeIdmUF22XBVk6jeSX57t5gLn0I9ic1"
+  }
+ ],
+ "packs": [
+  {
+   "key": "pack500",
+   "name": "Recarga 500 créditos",
+   "price": "$4",
+   "credits": 500,
+   "checkout": "https://buy.polar.sh/polar_cl_Mn9y3dzZNPYi8IJVEAr2dA9Ie4n49wm2AC3891x2PZX",
+   "benefit_id": "ad020e32-fc77-44cc-ba6d-8b20de4be000"
+  },
+  {
+   "key": "pack1000",
+   "name": "Recarga 1,000 créditos",
+   "price": "$7",
+   "credits": 1000,
+   "checkout": "https://buy.polar.sh/polar_cl_KXEKB9m4dztzi9qKTH6lxSii5EMK9KpuseuiT2ErR2d",
+   "benefit_id": "e66ab671-11d7-487d-98be-d4e2d1e3d6a4"
+  },
+  {
+   "key": "pack2500",
+   "name": "Recarga 2,500 créditos",
+   "price": "$15",
+   "credits": 2500,
+   "checkout": "https://buy.polar.sh/polar_cl_ofT0MFAlKA5Vjzm7y0mraGFGKPIdlNjz9Buup0A4JSl",
+   "benefit_id": "8f106111-7861-4ee3-94d4-efbd9730f03f"
+  }
+ ],
+ "portal": "https://polar.sh/recorta-pro/portal"
+}
