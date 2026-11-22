@@ -1,22 +1,22 @@
 {
  "version": 1,
- "updated": "2026-11-22T05:21:47Z",
+ "updated": "2026-11-22T05:25:39Z",
  "plans": [
   {
    "key": "monthly",
-   "name": "KLYPT — Mensual Fundador",
+   "name": "KLYPT — Mensual",
    "price": "$9.00",
    "period": "mes",
    "credits": 2000,
-   "checkout": "https://buy.polar.sh/polar_cl_r3pJzk330soddcJOXM3xhBRBwD8wz2HRmP7uj0cyIUo"
+   "checkout": "https://tienda.getklypt.com/products/klypt-"
   },
   {
    "key": "yearly",
-   "name": "KLYPT — Anual Fundador",
-   "price": "$59.99",
+   "name": "KLYPT — Anual ",
+   "price": "$119",
    "period": "año",
    "credits": 5000,
-   "checkout": "https://buy.polar.sh/polar_cl_lgfPrxdylBXCDeIdmUF22XBVk6jeSX57t5gLn0I9ic1"
+   "checkout": "https://tienda.getklypt.com/products/klypt-anual"
   }
  ],
  "packs": [
