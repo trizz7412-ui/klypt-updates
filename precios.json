@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-22T05:25:39Z",
+ "updated": "2026-11-22T05:42:53Z",
  "plans": [
   {
    "key": "monthly",
@@ -8,7 +8,7 @@
    "price": "$9.00",
    "period": "mes",
    "credits": 2000,
-   "checkout": "https://tienda.getklypt.com/products/klypt-"
+   "checkout": "https://tienda.getklypt.com/products/klypt-mensual"
   },
   {
    "key": "yearly",
