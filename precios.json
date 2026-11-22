@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-22T05:53:11Z",
+ "updated": "2026-11-22T06:18:50Z",
  "plans": [
   {
    "key": "monthly",
@@ -8,7 +8,7 @@
    "price": "$9.00",
    "period": "mes",
    "credits": 2000,
-   "checkout": "https://tienda.getklypt.com/cart/add?id=68974645379441&quantity=1&selling_plan=1080026792305&return_to=%2Fcheckout"
+   "checkout": "https://tienda.getklypt.com/cart/clear?return_to=%2Fcart%2Fadd%3Fid%3D68974645379441%26quantity%3D1%26selling_plan%3D1080026792305%26return_to%3D%252Fcheckout"
   },
   {
    "key": "yearly",
@@ -16,7 +16,7 @@
    "price": "$119",
    "period": "año",
    "credits": 5000,
-   "checkout": "https://tienda.getklypt.com/cart/add?id=68974695874929&quantity=1&selling_plan=1080026825073&return_to=%2Fcheckout"
+   "checkout": "https://tienda.getklypt.com/cart/clear?return_to=%2Fcart%2Fadd%3Fid%3D68974695874929%26quantity%3D1%26selling_plan%3D1080026825073%26return_to%3D%252Fcheckout"
   }
  ],
  "packs": [
