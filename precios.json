@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-22T05:42:53Z",
+ "updated": "2026-11-22T05:53:11Z",
  "plans": [
   {
    "key": "monthly",
@@ -8,7 +8,7 @@
    "price": "$9.00",
    "period": "mes",
    "credits": 2000,
-   "checkout": "https://tienda.getklypt.com/products/klypt-mensual"
+   "checkout": "https://tienda.getklypt.com/cart/add?id=68974645379441&quantity=1&selling_plan=1080026792305&return_to=%2Fcheckout"
   },
   {
    "key": "yearly",
@@ -16,7 +16,7 @@
    "price": "$119",
    "period": "año",
    "credits": 5000,
-   "checkout": "https://tienda.getklypt.com/products/klypt-anual"
+   "checkout": "https://tienda.getklypt.com/cart/add?id=68974695874929&quantity=1&selling_plan=1080026825073&return_to=%2Fcheckout"
   }
  ],
  "packs": [
