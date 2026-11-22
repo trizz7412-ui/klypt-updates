@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-22T06:22:50Z",
+ "updated": "2026-11-22T14:35:04Z",
  "plans": [
   {
    "key": "monthly",
@@ -13,7 +13,7 @@
   {
    "key": "yearly",
    "name": "KLYPT — Anual ",
-   "price": "$119",
+   "price": "$89.00",
    "period": "año",
    "credits": 5000,
    "checkout": "https://tienda.getklypt.com/cart/clear?return_to=%2Fcart%2Fadd%3Fid%3D68974695874929%26quantity%3D1%26selling_plan%3D1080026825073%26return_to%3D%252Fcheckout"
